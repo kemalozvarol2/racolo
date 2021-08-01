@@ -1,7 +1,22 @@
-# racolo
-Color suggester for UX/UI designers. Ability to generate random colors, save and copy hex codes within website.
+# RACOLO
+RACOLO is a color suggester for UX/UI designers.
 
+# Specs :
+- Generate random colors.
+- Instantly see how would work in dark&light themes.
+- Save your colors to browser's memory, they'll stay there as long as you keep them.
+- And copy hex codes with only one click.
+- Simple shortcuts for easier use!
+
+---
+
+
+![Racolo Screenshot](https://github.com/kemalozvarol2/racolo/blob/master/ss2.PNG)
+
+## Racolo uses localStorage to store color data
 
 ![Racolo Screenshot](https://github.com/kemalozvarol2/racolo/blob/master/ss.PNG)
 
-## Racolo uses localStorage to store color data
+## You can use RACOLO with your keyboard !
+
+![Racolo Screenshot](https://github.com/kemalozvarol2/racolo/blob/master/ss3.PNG)
