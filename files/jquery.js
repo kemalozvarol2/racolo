@@ -108,5 +108,7 @@ document.body.onkeyup = function(e){
           saveColor();
      }else if(e.keyCode == 83){
           showcolors();
+     }else if(e.keyCode == 67){
+          copyColor();
      }
 }
