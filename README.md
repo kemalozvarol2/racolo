@@ -1,7 +1,7 @@
 # RACOLO
 RACOLO is a color suggester for UX/UI designers.
 
-## Live Demo : https://vigilant-ride-018582.netlify.app/
+## Live Demo : https://racolo.netlify.app/
 
 # Specs :
 - Generate random colors.
